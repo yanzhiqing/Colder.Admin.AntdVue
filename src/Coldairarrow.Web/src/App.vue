@@ -1,8 +1,7 @@
 <template>
   <a-config-provider :locale="zhCN">
     <div id="app">
-      <router-view />
-      <h1>111</h1>
+      <router-view />\
     </div>
   </a-config-provider>
 </template>
